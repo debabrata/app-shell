@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+``````This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
@@ -116,7 +116,7 @@ my-app/
   public/
     index.html
     favicon.ico
-  src/
+  src/````
     App.css
     App.js
     App.test.js
@@ -480,7 +480,7 @@ Here is an example:
 import React from 'react';
 import logo from './logo.png'; // Tell Webpack this JS file uses this image
 
-console.log(logo); // /logo.84287d09.png
+console.log(logo); // /logo.84287d09.png``````````
 
 function Header() {
   // Import result is the URL of your image
